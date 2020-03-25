@@ -1,0 +1,13 @@
+.Body {
+  background-color: rgb(8, 27, 43);
+  height: 90vh;
+  display: grid;
+  grid-template-rows: repeat(10, 150px);
+  grid-column-gap: 10px;
+  grid-row-gap: 10px;
+}
+
+.Item1 {
+  background-color: orange;
+  height: 200px;
+}
